@@ -11,6 +11,17 @@ categories: ["Sound Design", "Game Design", "3D Animation"]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65jF9kK9jLU?si=_wVtdJQgO7L7HHjy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<div style="border:1px solid #d2e7e7ff; border-radius:10px; padding:10px; max-width:500px;">
+  <h3>Master's Degree Project : Alazia</h3>
+  <p>
+    <em>"Alazia is a light-hearted adventure game inspired by cosy games, but with a twist: the dissonance between comfort and uneasiness."</em>
+  </p>
+  <a href="https://www.dropbox.com/scl/fo/4wpsw8crvx282gl75fizi/ALpqv7q9s2JPS_7yhN-t46s?rlkey=8x6wxpuhquhzu8c27798mybke&st=ihs9wm35&dl=0" target="_blank" 
+     style="color:#1a73e8; text-decoration:none; font-weight:bold;">
+     → You can download our final build here! :) 
+  </a>
+</div>
+
 ## Context
 
 This game was created during our two-year Master’s program by a team of ten, each contributing to every aspect of the project.
